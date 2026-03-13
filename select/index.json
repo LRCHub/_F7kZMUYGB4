@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ランウェイのファンタジスタ",
+  "base_artist": "TOKOTOKO(西沢さんP)",
+  "createdAt": "2026-03-13T03:28:02.635562Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ランウェイのファンタジスタ feat.初音ミク",
+      "artist": "TOKOTOKO (西沢さんP) Feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_ランウェイのファンタジスタ_feat.初音ミク_TOKOTOKO_(西沢さんP)_Feat._初音ミク.txt"
+    }
+  ]
+}
